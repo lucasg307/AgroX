@@ -1,2 +1,2 @@
 # AgroX
-Trabalho de Arquitetura de Software
+Trabalho de Arquitetura de Software.
